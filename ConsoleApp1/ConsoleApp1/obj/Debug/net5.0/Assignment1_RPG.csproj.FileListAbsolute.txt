@@ -1,0 +1,16 @@
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.csproj.AssemblyReference.cache
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.AssemblyInfoInputs.cache
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.AssemblyInfo.cs
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.csproj.CoreCompileInputs.cache
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Assignment1_RPG.exe
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Assignment1_RPG.deps.json
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Assignment1_RPG.runtimeconfig.json
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Assignment1_RPG.runtimeconfig.dev.json
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Assignment1_RPG.dll
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Assignment1_RPG.dll
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Assignment1_RPG.pdb
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.dll
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Assignment1_RPG.dll
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.pdb
+C:\Users\lanest\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Assignment1_RPG.genruntimeconfig.cache
